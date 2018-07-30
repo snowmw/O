@@ -1,4 +1,4 @@
-package x.o.o
+package o.x.o
 
 import org.junit.Test
 import org.junit.runner.RunWith

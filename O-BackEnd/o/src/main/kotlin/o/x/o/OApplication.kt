@@ -1,4 +1,4 @@
-package x.o.o
+package o.x.o
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
